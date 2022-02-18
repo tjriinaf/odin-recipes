@@ -1,7 +1,7 @@
 # odin-recipies
-<p>i'm learnin ok</p>
+i'm learnin ok  
 
-<p>Before project: I would like to create a simple HTML webpage to
-improve my skills</p>
+Before project: I would like to create a simple HTML webpage to
+improve my skills  
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
